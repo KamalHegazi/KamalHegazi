@@ -23,9 +23,18 @@
     </a>
 </p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,bash" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,kali" /><br>
+    <img src="https://skillicons.dev/icons?i=python,bash,javascript,typescript" />
+</div>
+<h2 align="center">⚒️ Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,linux,kali,github,git" />
+</div>
+<h2 align="center">⚒️ Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
 </div>
