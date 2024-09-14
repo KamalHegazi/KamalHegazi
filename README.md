@@ -18,7 +18,7 @@
 
 <h2 align="center">💌 Connect with me 💌</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/kamal-hegazi-0a6771323" target="_blank">
+    <a href="https://linkedin.com/in/www.linkedin.com/in/kamalhegazi" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
     </a>
 </p>
